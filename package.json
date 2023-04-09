@@ -1,0 +1,21 @@
+{
+  "name": "pwsh-theme-unofficial",
+  "displayName": "pwsh-theme-unofficial",
+  "description": "A dark easy to read theme with PowerShell syntax highlighting in mind.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pwsh Theme Unofficial",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Pwsh Theme Unofficial-color-theme.json"
+      }
+    ]
+  }
+}
