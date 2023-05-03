@@ -1,5 +1,5 @@
 {
-	"name": "Pwsh-theme-unnoficial",
+	"name": "Pwsh-theme-unofficial",
 	"type": "dark",
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
@@ -792,7 +792,7 @@
 			"name": "Attribute IDs",
 			"scope": "entity.other.attribute-name.id",
 			"settings": {
-				"fontStyle": "normal",
+				"fontStyle": "",
 				"foreground": "#b0daff"
 			}
 		},
@@ -800,7 +800,7 @@
 			"name": "Attribute class",
 			"scope": "entity.other.attribute-name.class.css",
 			"settings": {
-				"fontStyle": "normal",
+				"fontStyle": "",
 				"foreground": "#ffc847"
 			}
 		},
