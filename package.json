@@ -2,7 +2,8 @@
   "name": "pwsh-theme-unofficial",
   "displayName": "pwsh-theme-unofficial",
   "description": "A dark and easy to read theme built with PowerShell syntax highlighting in mind.",
-  "version": "0.0.1",
+  "icon": "assets/icon.png",
+  "version": "0.0.2",
   "publisher": "TheTaylorLee",
   "engines": {
     "vscode": "^1.77.0"
