@@ -1,17 +1,5 @@
 # Welcome to your VS Code Extension
 
-## Setup Environment using WSL
-- Launch a wsl2 terminal
-- [Install Dependencies](https://learn.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-on-wsl)
-    - sudo apt install curl
-    - curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/master/install.sh | bash
-    - Restart wsl2 terminal
-    - nvm install --lts
-    - nvm install node
-- git clone https://github.com/TheTaylorLee/pwsh-theme-unofficial
-- cd pwsh-theme-unofficial
-- npm install -g vsce
-
 ## What's in the folder
 
 * This folder contains all of the files necessary for your color theme extension.
@@ -38,3 +26,27 @@ To learn more about scopes and how they're used, check out the [color theme](htt
 
 * To start using your extension with Visual Studio Code copy it into the `<user home>/.vscode/extensions` folder and restart Code.
 * To share your extension with the world, read on https://code.visualstudio.com/docs about publishing an extension.
+
+### New Environment Setup
+
+## Setup Environment for publishing changes
+- Launch a wsl2 terminal
+- [Install Dependencies](https://learn.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-on-wsl)
+    - sudo apt install curl
+    - curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/master/install.sh | bash
+    - Restart wsl2 terminal
+    - nvm install --lts
+    - nvm install node
+- git clone https://github.com/TheTaylorLee/pwsh-theme-unofficial
+- cd pwsh-theme-unofficial
+- npm install -g vsce
+
+## Create a new theme repo
+- npm install -g yo generator-code
+- yo code
+- select new color theme
+
+## Publish Changes
+- vsce login <publishername>
+- vsce package
+- vsce publish
