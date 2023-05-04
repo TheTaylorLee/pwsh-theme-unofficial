@@ -8,3 +8,5 @@
     - Updated the theme name
 - 0.0.4
     - Added the change log
+- 0.0.5
+    - Added PowerShell specific token colorization

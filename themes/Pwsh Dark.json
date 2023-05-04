@@ -340,6 +340,20 @@
 			}
 		},
 		{
+			"name": "pwsh variable sign",
+			"scope": "punctuation.definition.variable.powershell",
+			"settings": {
+				"foreground": "#ffffff"
+			}
+		},
+		{
+			"name": "pwsh constant",
+			"scope": "constant.language.powershell",
+			"settings": {
+				"foreground": "#ffc847"
+			}
+		},
+		{
 			"name": "js/ts json",
 			"scope": "support.constant.json",
 			"settings": {
