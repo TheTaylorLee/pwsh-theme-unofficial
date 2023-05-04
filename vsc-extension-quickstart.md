@@ -1,5 +1,8 @@
 # Welcome to your VS Code Extension
 
+## Setup Environment using WSL
+- Launch a wsl2 terminal
+
 ## What's in the folder
 
 * This folder contains all of the files necessary for your color theme extension.
