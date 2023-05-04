@@ -2,6 +2,15 @@
 
 ## Setup Environment using WSL
 - Launch a wsl2 terminal
+- [Install Dependencies](https://learn.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-on-wsl)
+    - sudo apt install curl
+    - curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/master/install.sh | bash
+    - Restart wsl2 terminal
+    - nvm install --lts
+    - nvm install node
+- git clone https://github.com/TheTaylorLee/pwsh-theme-unofficial
+- cd pwsh-theme-unofficial
+- npm install -g vsce
 
 ## What's in the folder
 
