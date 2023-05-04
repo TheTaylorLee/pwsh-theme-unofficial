@@ -6,4 +6,4 @@ If you would like to suggest some changes to this theme, please open an issue on
 
 ![preview](https://raw.githubusercontent.com/TheTaylorLee/pwsh-theme-unofficial/master/assets/themepreview.png)
 
-Disclaimer: This Theme was created with no input from Microsoft or any PowerShell Theme.
+Disclaimer: This Theme was created with no input from Microsoft or any PowerShell Team.
