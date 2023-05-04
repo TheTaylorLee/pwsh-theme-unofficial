@@ -29,12 +29,9 @@ To learn more about scopes and how they're used, check out the [color theme](htt
 
 ### New Environment Setup
 
-## Vscode
+## Setup Environment for publishing changes
 - Use vscode to connect to wsl
 - Use vscode terminal to proceed
-
-## Setup Environment for publishing changes
-- Launch a wsl2 terminal
 - [Install Dependencies](https://learn.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-on-wsl)
     - sudo apt install curl
     - curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/master/install.sh | bash
