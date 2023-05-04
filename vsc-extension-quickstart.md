@@ -46,6 +46,9 @@ To learn more about scopes and how they're used, check out the [color theme](htt
 - yo code
 - select new color theme
 
+## Vscode
+- Use vscode to connect to wsl cloned repo
+
 ## Publish Changes
 - vsce login <publishername>
 - vsce package
