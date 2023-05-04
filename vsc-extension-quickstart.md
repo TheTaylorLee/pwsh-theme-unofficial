@@ -29,6 +29,10 @@ To learn more about scopes and how they're used, check out the [color theme](htt
 
 ### New Environment Setup
 
+## Vscode
+- Use vscode to connect to wsl
+- Use vscode terminal to proceed
+
 ## Setup Environment for publishing changes
 - Launch a wsl2 terminal
 - [Install Dependencies](https://learn.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-on-wsl)
@@ -45,9 +49,6 @@ To learn more about scopes and how they're used, check out the [color theme](htt
 - npm install -g yo generator-code
 - yo code
 - select new color theme
-
-## Vscode
-- Use vscode to connect to wsl cloned repo
 
 ## Publish Changes
 - vsce login <publishername>
