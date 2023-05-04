@@ -1,9 +1,9 @@
 {
-  "name": "pwsh-theme-unofficial",
-  "displayName": "pwsh-theme-unofficial",
+  "name": "Pwsh Unofficial Theme",
+  "displayName": "Pwsh Unofficial Theme",
   "description": "A dark and easy to read theme built with PowerShell syntax highlighting in mind.",
   "icon": "assets/icon.png",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "TheTaylorLee",
   "engines": {
     "vscode": "^1.77.0"
@@ -27,9 +27,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Pwsh Unofficial Theme",
+        "label": "Pwsh Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Pwsh Unofficial Theme.json"
+        "path": "./themes/Pwsh Dark.json"
       }
     ]
   }
