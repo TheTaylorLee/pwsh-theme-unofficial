@@ -10,3 +10,5 @@
     - Added the change log
 - 0.0.5
     - Added PowerShell specific token colorization
+- 0.0.6
+    - Updated preview image and readme
