@@ -1,5 +1,5 @@
 {
-	"name": "Pwsh-theme-unofficial",
+	"name": "pwsh-unofficial-theme",
 	"type": "dark",
 	"semanticHighlighting": true,
 	"semanticTokenColors": {

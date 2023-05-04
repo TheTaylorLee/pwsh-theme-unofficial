@@ -1,20 +1,34 @@
 {
   "name": "pwsh-theme-unofficial",
   "displayName": "pwsh-theme-unofficial",
-  "description": "A dark easy to read theme with PowerShell syntax highlighting in mind.",
+  "description": "A dark and easy to read theme built with PowerShell syntax highlighting in mind.",
   "version": "0.0.1",
+  "publisher": "TheTaylorLee",
   "engines": {
     "vscode": "^1.77.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "powershell",
+    "theme",
+    "dark",
+    "vscode",
+    "syntax",
+    "highlighting",
+    "pwsh"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheTaylorLee/pwsh-theme-unofficial.git"
+  },
   "contributes": {
     "themes": [
       {
-        "label": "Pwsh Theme Unofficial",
+        "label": "Pwsh Unofficial Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Pwsh Theme Unofficial-color-theme.json"
+        "path": "./themes/Pwsh Unofficial Theme.json"
       }
     ]
   }
