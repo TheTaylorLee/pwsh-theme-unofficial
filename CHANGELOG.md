@@ -10,10 +10,33 @@
     - Added the change log
 - 0.0.5
     - Added PowerShell specific token colorization
+    ```json
+    {
+        {
+        "name": "pwsh variable sign",
+        "scope": "punctuation.definition.variable.powershell",
+        "settings": {
+            "foreground": "#ffffff"
+        }
+    },
+    {
+        "name": "pwsh constant",
+        "scope": "constant.language.powershell",
+        "settings": {
+            "foreground": "#ffc847"
+        }
+    },
+     ```   
 - 0.0.6
     - Updated preview image and readme
 - 0.0.7
-    - Update status bar color when no folder is selected.
-        - ("statusbar.noFolderBackground": "#eeeeee" -> "statusbar.noFolderBackground": "#191919")
+    - Update status bar color when no folder is selected. 
     - Update editor scrollbar transparency so code is not visible opposite the minimap. Scrollbar informational markers are now more easily seen.
-        - ("editorOverviewRuler.background": "#ff000000" -> "editorOverviewRuler.background": "#191919",)
+    ```json
+    //old
+    "statusbar.noFolderBackground": "#eeeeee",
+    "editorOverviewRuler.background": "#ff000000"
+    //new
+    "statusbar.noFolderBackground": "#191919",
+    "editorOverviewRuler.background": "#191919"
+    ```   
