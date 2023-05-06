@@ -51,3 +51,6 @@ To learn more about scopes and how they're used, check out the [color theme](htt
 - vsce login <publishername>
 - vsce package
 - vsce publish
+
+### [Theme Builder gui](https://themes.vscode.one/)
+- Useful for creating the initial theme template
