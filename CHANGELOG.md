@@ -26,11 +26,11 @@
             "foreground": "#ffc847"
         }
     },
-     ```   
+     ```
 - 0.0.6
     - Updated preview image and readme
 - 0.0.7
-    - Update status bar color when no folder is selected. 
+    - Update status bar color when no folder is selected.
     - Update editor scrollbar transparency so code is not visible opposite the minimap. Scrollbar informational markers are now more easily seen.
     ```json
     //old
@@ -39,4 +39,6 @@
     //new
     "statusbar.noFolderBackground": "#191919",
     "editorOverviewRuler.background": "#191919"
-    ```   
+    ```
+- 0.0.8
+    - Update package readme
