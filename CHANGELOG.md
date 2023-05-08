@@ -42,3 +42,5 @@
     ```
 - 0.0.8
     - Update package readme
+- 0.0.9
+    - Remove duplicate statusbar.noFolderBackground entry
