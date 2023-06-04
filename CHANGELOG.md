@@ -44,7 +44,7 @@
     - Update package readme
 - 0.0.9
     - Remove duplicate statusbar.noFolderBackground entry
-- 0.0.10
+- 1.0.0
     - Remove bracketmatch tokenization so the cursor can be located.
     ```json
     //old
