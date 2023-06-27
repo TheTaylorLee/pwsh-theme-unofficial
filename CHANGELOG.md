@@ -54,3 +54,20 @@
     "editorBracketMatch.background": "#91e5ff00",
 	"editorBracketMatch.border": "#00ff3400"
     ```
+- 1.1.0
+    - Small readme changes.
+    - Update some highlighting and selection tokens to better stand out.
+    ```json
+    //old
+    "editor.selectionBackground": "#4b4b4b74",
+    "editor.findMatchBackground": "#5b6c82",
+    "editor.findMatchHighlightBackground": "#58ffe85a",
+	"editor.rangeHighlightBorder": "#eeeeee00",
+	"editor.hoverHighlightBackground": "#264f7840"
+    //new
+    "editor.selectionBackground": "#004972b8",
+    "editor.findMatchBackground": "#004972b8",
+    "editor.findMatchHighlightBackground": "#004972b8",
+    "editor.rangeHighlightBorder": "#91e5ff",
+    "editor.hoverHighlightBackground": "#004972b8"
+    ```
