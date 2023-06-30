@@ -1,8 +1,8 @@
 # Pwsh Unofficial Theme
 
 <p align="Left">
-    <a href="https://github.com/thetaylorlee/pwsh-theme-unofficial">
-        <img src="https://img.shields.io/badge/https%3A%2F%2Fgithub.com%2Fthetaylorlee%2Fpwsh-theme-unofficial?logo=github&label=Github&link=https%3A%2F%2Fgithub.com%2Fthetaylorlee%2Fpwsh-theme-unofficial">
+    <a href="https://github.com/TheTaylorLee/pwsh-theme-unofficial">
+        <img src="https://img.shields.io/github/last-commit/TheTaylorLee/pwsh-theme-unofficial/master?label=Github%20Last%20Commit">
     </a>
     <a href="https://marketplace.visualstudio.com/items?itemName=TheTaylorLee.pwsh-theme-unofficial">
         <img src="https://img.shields.io/visual-studio-marketplace/d/TheTaylorLee.pwsh-theme-unofficial?label=Visual%20Studio%20Marketplace">

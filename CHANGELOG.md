@@ -73,3 +73,5 @@
     ```
 - 1.2.0
     - Update Readme
+- 1.2.1
+    - Update Readme
