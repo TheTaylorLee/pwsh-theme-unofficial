@@ -71,3 +71,5 @@
     "editor.rangeHighlightBorder": "#91e5ff",
     "editor.hoverHighlightBackground": "#004972b8"
     ```
+- 1.2.0
+    - Update Readme
