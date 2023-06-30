@@ -75,3 +75,5 @@
     - Update Readme
 - 1.2.1
     - Update Readme
+- 1.2.2
+    - Update Readme

@@ -2,10 +2,10 @@
 
 <p align="Left">
     <a href="https://github.com/TheTaylorLee/pwsh-theme-unofficial">
-        <img src="https://img.shields.io/github/last-commit/TheTaylorLee/pwsh-theme-unofficial/master?label=Github%20Last%20Commit">
+        <img src="https://img.shields.io/github/last-commit/thetaylorlee/pwsh-theme-unofficial/master?logo=github&label=Github%20Last%20Commit&link=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3DTheTaylorLee.pwsh-theme-unofficial">
     </a>
     <a href="https://marketplace.visualstudio.com/items?itemName=TheTaylorLee.pwsh-theme-unofficial">
-        <img src="https://img.shields.io/visual-studio-marketplace/d/TheTaylorLee.pwsh-theme-unofficial?label=Visual%20Studio%20Marketplace">
+        <img src="https://img.shields.io/visual-studio-marketplace/i/TheTaylorLee.pwsh-theme-unofficial?logo=visual-studio&label=Marketplace%20Installs">
     </a>
 </p>
 
