@@ -30,6 +30,11 @@
         "label": "Pwsh Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/Pwsh Dark.json"
+      },
+      {
+        "label": "Pwsh Light",
+        "uiTheme": "vs",
+        "path": "./themes/Pwsh Light.json"
       }
     ]
   }
