@@ -77,3 +77,5 @@
     - Update Readme
 - 1.2.2
     - Update Readme
+- 2.0.0
+    - Added a Light Mode
