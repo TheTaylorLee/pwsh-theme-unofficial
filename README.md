@@ -18,4 +18,4 @@ If you would like to suggest some changes to this theme, or an additional theme 
 
 ### Pwsh Light
 This theme is a modified version of theme from the [Powershell Extension.](https://github.com/PowerShell/vscode-powershell) The attributed license can be found [here.](https://github.com/TheTaylorLee/pwsh-theme-unofficial/blob/master/assets/pwshlight/License)
-![preview](https://github.com/TheTaylorLee/pwsh-theme-unofficial/blob/master/assets/pwshlight/themepreview.png?raw%3Dtrue)
+![preview](https://raw.githubusercontent.com/TheTaylorLee/pwsh-theme-unofficial/master/assets/pwshlight/themepreview.png)
