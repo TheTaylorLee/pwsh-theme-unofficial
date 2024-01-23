@@ -81,3 +81,5 @@
     - Added a Light Mode
 - 2.0.1
     - Update Readme
+- 3.0.0
+    - Added Pwsh Darker theme
