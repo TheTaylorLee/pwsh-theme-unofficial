@@ -16,6 +16,9 @@ If you would like to suggest some changes to this theme, or an additional theme 
 ### Pwsh Dark
 ![preview](https://raw.githubusercontent.com/TheTaylorLee/pwsh-theme-unofficial/main/assets/pwshdark/themepreview.png)
 
+### Pwsh Dark
+![preview](https://raw.githubusercontent.com/TheTaylorLee/pwsh-theme-unofficial/main/assets/pwshdarker/themepreview.png)
+
 ### Pwsh Light
 This theme is a modified version of the theme included with the [Powershell Extension.](https://github.com/PowerShell/vscode-powershell) The attributed license can be found [here.](https://github.com/TheTaylorLee/pwsh-theme-unofficial/blob/main/assets/pwshlight/License)
 ![preview](https://raw.githubusercontent.com/TheTaylorLee/pwsh-theme-unofficial/main/assets/pwshlight/themepreview.png)
