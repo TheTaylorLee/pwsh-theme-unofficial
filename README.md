@@ -16,7 +16,7 @@ If you would like to suggest some changes to this theme, or an additional theme 
 ### Pwsh Dark
 ![preview](https://raw.githubusercontent.com/TheTaylorLee/pwsh-theme-unofficial/main/assets/pwshdark/themepreview.png)
 
-### Pwsh Dark
+### Pwsh Darker
 ![preview](https://raw.githubusercontent.com/TheTaylorLee/pwsh-theme-unofficial/main/assets/pwshdarker/themepreview.png)
 
 ### Pwsh Light

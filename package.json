@@ -3,7 +3,7 @@
   "displayName": "pwsh-theme-unofficial",
   "description": "A dark and easy to read theme built with PowerShell syntax highlighting in mind.",
   "icon": "assets/icon.png",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "publisher": "TheTaylorLee",
   "engines": {
     "vscode": "^1.77.0"

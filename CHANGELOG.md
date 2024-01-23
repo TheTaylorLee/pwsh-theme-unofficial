@@ -83,3 +83,5 @@
     - Update Readme
 - 3.0.0
     - Added Pwsh Darker theme
+- 3.0.1
+    - Update Readme
