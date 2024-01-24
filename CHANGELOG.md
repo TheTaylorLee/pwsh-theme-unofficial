@@ -85,3 +85,15 @@
     - Added Pwsh Darker theme
 - 3.0.1
     - Update Readme
+- 3.1.0
+    - Update Pwsh Darker
+    ```json
+    //old
+    "editor.foldBackground": "#388c8c",
+    "editor.findMatchBackground": "#004972b8",
+    "editor.findMatchHighlightBackground": "#004972b8",
+    //new
+    "editor.foldBackground": "#2d1e7e",
+    "editor.findMatchBackground": "#971010",
+    "editor.findMatchHighlightBackground": "#5c1e1e",
+    ```
