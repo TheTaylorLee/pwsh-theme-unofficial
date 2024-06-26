@@ -97,3 +97,4 @@
     "editor.findMatchBackground": "#971010",
     "editor.findMatchHighlightBackground": "#5c1e1e",
     ```
+3.2.0 - Update readme
