@@ -4,8 +4,8 @@
 
 * This folder contains all of the files necessary for your color theme extension.
 * `package.json` - this is the manifest file that defines the location of the theme file and specifies the base theme of the theme.
-    * To debug a them the json file for the team must exist and it must be added to the package.json file as well.
-* `/themes/*.json` Location of the them files
+    * To debug them the json file for the theme must exist and it must be added to the package.json file as well.
+* `/themes/*.json` Location of the theme files
 
 ## Get up and running straight away
 
