@@ -98,3 +98,21 @@
     "editor.findMatchHighlightBackground": "#5c1e1e",
     ```
 - 3.2.0 Update readme
+- 3.3.0 Add and modify tokens to make the minimap more legible and the scroll selection easier to find.
+    - Update dark themes
+    ```json
+    //old
+    "minimap.selectionHighlight": "#4b4b4b74",
+    "scrollbarSlider.hoverBackground": "#646464b3",
+    "scrollbarSlider.activeBackground": "#bfbfbf66",
+    //new
+    "minimap.selectionHighlight": "#FF000033",
+    "scrollbarSlider.hoverBackground": "#004972b8",
+    "scrollbarSlider.activeBackground": "#004972b8",
+    ```
+    - Add to light theme
+    ```json
+    //new
+    "scrollbarSlider.hoverBackground": "#004972b8",
+    "scrollbarSlider.activeBackground": "#004972b8"
+    ```

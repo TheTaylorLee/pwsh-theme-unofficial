@@ -242,6 +242,8 @@
         "statusBar.debuggingBackground": "#FF4500",
         "statusBar.noFolderBackground": "#999999",
         "terminal.background": "#012456",
-        "terminal.foreground": "#F5F5F5"
+        "terminal.foreground": "#F5F5F5",
+        "scrollbarSlider.hoverBackground": "#004972b8",
+        "scrollbarSlider.activeBackground": "#004972b8"
     }
 }
