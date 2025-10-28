@@ -59,5 +59,6 @@ To learn more about scopes and how they're used, check out the [color theme](htt
 - vsce package
 - vsce publish
 
-### [Theme Builder gui](https://themes.vscode.one/)
-- Useful for creating the initial theme template
+### Useful websites
+- [Theme Builder gui](https://themes.vscode.one/) Useful for creating the initial theme template
+- [Color Token Tool](https://get-color.com/transparent/) Get HEXA tokens
